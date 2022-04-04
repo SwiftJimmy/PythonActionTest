@@ -6,7 +6,7 @@ VOWELS = ['a','e','g','h','i','l','o','r','u','w','y']
 
 def main():
     """Main Function """
-    while True:
+    while True: 
         input_sentence = input("Just feed me with one sentence:\n").split(' ')
         for index, word in enumerate(input_sentence):
             ending = word[-1] if not word[-1].isalpha() else ''
