@@ -3,7 +3,7 @@
 CONSONANTS = ['b','c','d','f','j','k','m','n','p','q','s','t','v','x','z']
 VOWELS = ['a','e','g','h','i','l','o','r','u','w','y']
 
- 
+
 def main():
     """Main Function """
     while True:
