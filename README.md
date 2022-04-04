@@ -1,3 +1,2 @@
-![example workflow](https://github.com/SwiftJimmy/PythonActionTest/blob/main/.github/workflows/pylint.yml/badge.svg?event=push)
-
+[![Pylint](https://github.com/SwiftJimmy/PythonActionTest/actions/workflows/pylint.yml/badge.svg?branch=main)](https://github.com/SwiftJimmy/PythonActionTest/actions/workflows/pylint.yml)
 # PythonActionTest
